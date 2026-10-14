@@ -94,29 +94,29 @@ nav a {
 
 nav a[aria-current='page'] {
   color: #000;
-  background-color: #d4d4d4;
+  background-color: #ffffff;
 }
 /*inicio del footer*/
 footer{
-  background-color: #000;
-color: #d4d4d4;
+  background-color: gold;
+color: #ffffff;
 display: flex;
 flex-wrap: wrap;
 justify-content: space-evenly;
 }
 #colegio{
 width: 33%;
-background-color: red;
+background-color: rgb(0, 0, 0);
 padding: 5px;
 }
 #colegio a {
-color: #aaa;
+color: #ffffff;
 }
 
 #alumno{
   width: 33%;
-background-color: yellow;
-color: #aaa;
+background-color: rgb(0, 0, 0);
+color: #ffffff;
 padding: 5px;
 }
 #alumno a{
@@ -125,7 +125,7 @@ padding: 5px;
 
 #sociales{
   width: 33%;
-background-color: lightblue;
+background-color: rgb(0, 0, 0);
 padding: 5px;
 }
 
